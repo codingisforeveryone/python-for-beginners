@@ -32,7 +32,7 @@ What happens if the list is empty ([])?
 
 ### 👨‍💻 TASK 2: Access List Elements
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 Lists are ordered, and you can access items by their index number.
 ```

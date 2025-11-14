@@ -21,12 +21,10 @@ sudo apt install code
 ```
 
 ## 4. Open VSCode and discover
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 ## 5. Open terminal
 At the top -> Terminal -> New Terminal
 
-Click right to the `+` sign of the terminal -> Command prompt
-![alt text](image.png)
 
 ## 6. Navigate in the terminal
 

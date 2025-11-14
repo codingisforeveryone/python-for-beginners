@@ -2,7 +2,7 @@
 
 Variables are typically defined in Python with the **snake case** convention (left column):
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 There are also other conventions, see table.
 
