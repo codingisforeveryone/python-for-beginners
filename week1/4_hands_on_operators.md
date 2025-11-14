@@ -96,13 +96,35 @@ What happens when the first number is smaller or negative?
 >>> 10 ** -1
 ```
 
+Can you use ** to find square roots?
 
-Question:
+#### Advanced:
 
 What’s the difference between 2 ** 3 and 2 ^ 3?
 (Hint: try 2 ^ 3 and see what happens.)
 
-Can you use ** to find square roots?
+What is
+```
+>>> print(2 ^ 3)
+```
+
+`^` is NOT exponentiation.
+
+✅ What it actually does:
+
+`^` is the bitwise XOR operator.
+
+So:
+
+`2 ^ 3`
+
+is calculating:
+
+2 in binary → `010`
+
+3 in binary → `011`
+
+`XOR` → `001` → decimal 1
 
 ### 👨‍💻 TASK 6: Combining Operators
 
