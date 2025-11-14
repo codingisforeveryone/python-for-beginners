@@ -44,7 +44,7 @@ cd ..
 ```
 show what's in the current directory:
 ```
-dir
+ls
 ```
 
 ## 7. Check if python is already installed
