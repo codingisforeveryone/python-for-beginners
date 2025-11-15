@@ -10,11 +10,14 @@ Click Download for Windows, macOS, or Linux depending on your OS.
 
 ## 3. Install it
 
-### Windows: Download .zip file and unpack. Click Code.exe
+### Windows: 
+Download .zip file and unpack. Click Code.exe
 
-### macOS: Open the .zip file and drag Visual Studio Code into the Applications folder.
+### macOS: 
+Open the .zip file and drag Visual Studio Code into the Applications folder.
 
-### Linux: You can install using package managers (example for Ubuntu):
+### Linux: 
+You can install using package managers (example for Ubuntu):
 ```
 sudo apt update
 sudo apt install code
