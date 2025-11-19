@@ -94,6 +94,8 @@ Now add another key-value pair and check the length again.
 ## Optional: Advanced Exercise
 
 ### Overview
+| Operation   | Example                        | Description                  |
+| ----------- | ------------------------------ | ---------------------------- |
 | Nested      | `my_dict["x"]["y"]`            | Access nested value          |
 | Loop Keys   | `for k in my_dict:`            | Iterate over keys            |
 | Loop Values | `for v in my_dict.values():`   | Iterate over values          |
