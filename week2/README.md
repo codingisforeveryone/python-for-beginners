@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 ## Hands on
 1. [Variables (naming and behaviour)](0_hands_on_variables.md)
