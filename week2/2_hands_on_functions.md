@@ -17,7 +17,6 @@ ni functions_exercise.py
 ```
 
 on linux: 
-on windows powershell:
 ```
 touch functions_exercise.py
 ```
