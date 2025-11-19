@@ -16,19 +16,21 @@
 
 ## Exercise
 
+Create a file `list_exercise.py`
+
 ### 👨‍💻 TASK 1: Create and View a List
 
 Let’s start by creating a simple list of fruits.
 ```
->>> fruits = ["apple", "banana", "cherry", "mango"]
->>> print(fruits)
+fruits = ["apple", "banana", "cherry", "mango"]
+print(fruits)
 ```
 
-Try:
-
-What happens if you add a duplicate item, like another "apple"?
-
-What happens if the list is empty ([])?
+Run the file by typing in the terminal:
+```
+python list_exercise.py
+```
+Make sure that you are in the right folder!
 
 ### 👨‍💻 TASK 2: Access List Elements
 
@@ -36,9 +38,9 @@ What happens if the list is empty ([])?
 
 Lists are ordered, and you can access items by their index number.
 ```
->>> print(fruits[0])      # First item
->>> print(fruits[2])      # Third item
->>> print(fruits[-1])     # Last item
+print(fruits[0])      # First item
+print(fruits[2])      # Third item
+print(fruits[-1])     # Last item
 ```
 
 Question:
@@ -48,8 +50,8 @@ What happens if you try to access an index that doesn’t exist, e.g. fruits[10]
 
 Lists are mutable, meaning you can change their contents.
 ```
->>> fruits[1] = "blueberry"
->>> print(fruits)
+fruits[1] = "blueberry"
+print(fruits)
 ```
 
 Try:
@@ -59,16 +61,18 @@ Change the last fruit to "pineapple" using a negative index.
 
 Use list methods to grow or shrink your list.
 ```
->>> fruits.append("orange")      # Adds to the end
->>> fruits.insert(1, "grape")    # Adds at position 1
->>> print(fruits)
+fruits.append("orange")      # Adds to the end
+print("with orange", fruits)
+fruits.insert(1, "grape")    # Adds at position 1
+print("with grape ", fruits)
 ```
 
 Now remove some:
 ```
->>> fruits.remove("cherry")      # Removes by value
->>> fruits.pop()                 # Removes last item
->>> print(fruits)
+fruits.remove("cherry")      # Removes by value
+print("cherry removed ", fruits)
+fruits.pop()                 # Removes last item
+print("last item removed", fruits)
 ```
 
 Question:
@@ -95,9 +99,6 @@ You can check if an item is in a list with in.
 >>> print("pear" not in fruits)
 ```
 
-Challenge:
-Write a one-line statement that prints "Found it!" if "banana" is in the list.
-
 ### 👨‍💻 TASK 7: Sorting and Reversing
 
 Lists can be sorted alphabetically or numerically.
@@ -112,8 +113,6 @@ Try:
 
 Sort a list of numbers: nums = [10, 3, 7, 1, 9]
 
-What happens if you mix numbers and strings?
-
 ### 👨‍💻 TASK 8: Combining Lists
 
 You can join lists in different ways.
@@ -123,8 +122,6 @@ You can join lists in different ways.
 >>> print(food)
 ```
 
-Try:
-Use a loop to add each vegetable to fruits instead of +.
 
 ### 👨‍💻 TASK 9: List Functions
 
