@@ -16,7 +16,7 @@
 
 Dictionaries store key-value pairs.
 ```
-person = {"name": "Alice", "age": 20}
+person = {"name": "Mohammad", "age": 20}
 print(person)
 print(type(person))
 print(person["name"])
@@ -25,7 +25,7 @@ print(person["name"])
 Try:
 Add a new key:
 ```
->>> person["country"] = "USA"
+>>> person["country"] = "Palestine"
 >>> print(person)
 ```
 
@@ -52,7 +52,7 @@ Add new key-value pairs or update existing ones.
 ```
 
 Try:
-Add a new key "email" and assign a value like "alice@example.com".
+Add a new key "email" and assign a value like "muhammad@example.com".
 
 ### 👨‍💻 TASK 4: Remove Entries
 
@@ -66,7 +66,6 @@ Use .pop() and del to remove items.
 
 Question:
 What happens if you try to remove a key that doesn’t exist?
-
 
 
 ### 👨‍💻 TASK 5: Check for Keys

@@ -10,7 +10,19 @@ Why are functions used in programming?
 
 ### 👨‍💻 TASK 1: Create a Python File
 Open your terminal and create a file:
+
+on windows powershell:
+```
+ni functions_exercise.py
+```
+
+on linux: 
+on windows powershell:
+```
 touch functions_exercise.py
+```
+
+
 
 or in VS Code:
 File -> New File
@@ -39,8 +51,8 @@ Try: Change the message and run again.
 def greet_person(name):
     print(f"Hello, {name}!")
 
-greet_person("Alice")
-greet_person("Bob")
+greet_person("Muhammad")
+greet_person("Maryam")
 ```
 
 Challenge: Modify this function to take first and last name and print a full greeting.
@@ -61,7 +73,7 @@ Try: Write similar functions for subtract, multiply, and divide.
 def greet(name="Guest"):
     print(f"Hello, {name}!")
 
-greet("Alice")
+greet("Maryam")
 greet()
 ```
 
