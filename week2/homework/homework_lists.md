@@ -14,8 +14,6 @@ Questions:
 
 What happens when a duplicate item is added?
 
-What does an empty list ([]) look like when printed?
-
 ### 👨‍💻 TASK 2: Accessing List Elements
 
 Run:
