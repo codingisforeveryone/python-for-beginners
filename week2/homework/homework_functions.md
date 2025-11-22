@@ -171,7 +171,7 @@ Print the results
 Bonus:
 Add a square_root function using exponent 0.5.
 
-## Task 9 — Refactoring
+## Optional: Task 9 — Refactoring
 Copy the file student_grades.py and rename it to student_grades_refactored.py
 
 Refactor (i.e restructure) the file [`student_grades.py`](student_grades.py) into subfunctions, for example
