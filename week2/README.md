@@ -9,3 +9,5 @@
 
 ## Homework
 1. [Lists](./homework/homework_lists.md)
+1. [Functions](./homework/homework_functions.md)
+1. [Dictionaries](./homework/homework_dictionaries.md)

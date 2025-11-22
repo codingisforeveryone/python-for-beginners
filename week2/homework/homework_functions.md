@@ -172,6 +172,7 @@ Bonus:
 Add a square_root function using exponent 0.5.
 
 ## Task 9 — Refactoring
+Copy the file student_grades.py and rename it to student_grades_refactored.py
 
 Refactor (i.e restructure) the file [`student_grades.py`](student_grades.py) into subfunctions, for example
 - student_scores()
@@ -180,4 +181,8 @@ Refactor (i.e restructure) the file [`student_grades.py`](student_grades.py) int
 - write_results_to_file()
 
 and call this subfunctions, so that the file does the same as before.
+
+Compare the output (print and written file) of both files and assure it is the same.
+
+Question: How could you automate that check that the refactored file does the same? 
 
