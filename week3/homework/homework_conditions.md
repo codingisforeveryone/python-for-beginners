@@ -1,6 +1,6 @@
 # 📚 HOMEWORK: Conditional Statements
 
-## Homework 1: Basic if Statement
+## Task 1: Basic if Statement
 
 Starter Code:
 ```
@@ -18,7 +18,7 @@ Change it to 25 — will the message print or not? Explain why.
 
 Add another print statement outside the if and explain the difference.
 
-## Homework 2: if…else Statement
+## Task 2: if…else Statement
 
 Starter Code:
 ```
@@ -44,7 +44,7 @@ any other password prints Try again
 
 Add a comment explaining how the else part works.
 
-## Homework 3: if…elif…else
+## Task 3: if…elif…else
 
 Starter Code:
 ```
@@ -70,7 +70,7 @@ Add another condition:
 
 If speed = 120, print "Borderline speed".
 
-## Homework 4: Comparison Operators
+## Task 4: Comparison Operators
 
 Starter Code:
 ```
@@ -92,7 +92,7 @@ Write code using comparison operators to print:
 
 A condition that prints only if all three values are equal.
 
-## Homework 5: Logical Operators (and, or, not)
+## Task 5: Logical Operators (and, or, not)
 
 Starter Code:
 ```
@@ -116,7 +116,7 @@ battery = 70, charging = False
 
 Change the values and test your predictions.
 
-## Homework 6: Nested if Statements
+## Task 6: Nested if Statements
 
 Starter Code:
 ```
