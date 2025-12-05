@@ -7,5 +7,5 @@
 
 ## Homework
 1. [Conditional Statements](./homework/homework_conditions.md)
-1. [Code and test the hands on tasks on `for` loops](2_hands_on_for_loops.md)
-1. [Code and test the hands on tasks on `while` loops](3_hands_on_while_loops.md)
+1. [Finish hands on tasks `for` loops](2_hands_on_for_loops.md)
+1. [Finish hands on tasks `while` loops](3_hands_on_while_loops.md)
