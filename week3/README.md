@@ -8,3 +8,11 @@
 
 ## Homework
 1. [Dictionaries](./homework/homework_dictionaries.md)
+
+## Test exam
+[Link to colab notebook](https://colab.research.google.com/drive/1D1dnspdF_VJ0tSstCJMmWxXUOxzsOPF6?usp=sharing)
+
+Instructions:
+![alt text](images/save_and_share_notebook.gif)
+
+
