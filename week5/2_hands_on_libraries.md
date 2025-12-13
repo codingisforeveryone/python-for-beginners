@@ -144,6 +144,7 @@ df = pd.DataFrame(data)
 print(df)
 print("\nAverage Age:", df["Age"].mean())
 
+# save csv (comma separated values) file
 df.to_csv("people.csv", index=False)
 ```
 
