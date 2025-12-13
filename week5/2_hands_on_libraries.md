@@ -3,7 +3,7 @@
 
 | Step | Library          | Purpose                        |
 | ---- | ---------------- | ------------------------------ |
-| 1    | requests         | Access web APIs                |
+| 1    | requests, beautifulsoup     | Access web APIs, web scraping |
 | 2    | numpy            | Numerical computations         |
 | 3    | matplotlib       | Data visualization             |
 | 4    | pandas           | Data manipulation and analysis |
