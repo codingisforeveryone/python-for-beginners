@@ -99,7 +99,30 @@ Run it.
 
 Modify x and y to see how the plot changes.
 
-### 👨‍💻 TASK 6: Bonus — Using pandas
+### 👨‍💻 TASK 6: Read image and convert to np array
+```
+pip install pillow numpy
+```
+Write the following program:
+```
+from PIL import Image
+import numpy as np
+
+# Load image (PNG or JPG)
+path_to_image = "" # TODO
+img = Image.open(path_to_image)
+
+# Convert to NumPy array
+img_array = np.array(img)
+
+print("Image shape:", img_array.shape)
+print("Data type:", img_array.dtype)
+
+# Show first 5x5 pixels
+print(img_array[:5, :5])
+```
+
+### 👨‍💻 TASK 7: Bonus — Using pandas
 
 TASK: Install pandas:
 ```

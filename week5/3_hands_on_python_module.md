@@ -106,3 +106,21 @@ Run mymath.py directly and see the test output.
 
 Run use_mymath.py and see that the test code in __main__ does not execute.
 
+
+
+
+### 👨‍💻 INFO: What is the difference between a python module and a python package?
+
+- A python module is one file.
+- A python package is a collection of files structured in subfolders. The subfolders must contain an (empty) `__init__.py` file.
+
+Example:
+
+```
+mypackage/
+    __init__.py
+    math_ops/
+        __init__.py
+        basic.py
+        advanced.py
+```
