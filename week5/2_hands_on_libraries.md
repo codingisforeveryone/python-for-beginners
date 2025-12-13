@@ -135,14 +135,16 @@ Create use_pandas.py:
 import pandas as pd
 
 data = {
-    "Name": ["Alice", "Bob", "Charlie"],
+    "Name": ["Alice", "Ali", "Aisha"],
     "Age": [25, 30, 35],
-    "City": ["New York", "Los Angeles", "Chicago"]
+    "City": ["Berlin", "Jerusalem", "London"]
 }
 
 df = pd.DataFrame(data)
 print(df)
 print("\nAverage Age:", df["Age"].mean())
+
+df.to_csv("people.csv", index=False)
 ```
 
 TASK:
