@@ -14,22 +14,31 @@
 TASK: Install the requests library using pip.
 ```
 pip install requests
+pip install beautifulsoup4
 ```
 
 
 Check installation:
 ```
-python -m pip show requests
+pip freeze
 ```
-### 👨‍💻 TASK 2: Using the requests Library
+
+### 👨‍💻 TASK 2: Using the requests and beautifulsoup Library
 
 Create a file called use_requests.py:
 ```
 import requests
+from bs4 import BeautifulSoup
 
-response = requests.get("https://api.github.com")
-print("Status Code:", response.status_code)
-print("Response Headers:", response.headers)
+headers = {"User-Agent": "Mozilla/5.0"}
+url = "https://github.com/codingisforeveryone/python-for-beginners/tree/main"
+
+response = requests.get(url, headers=headers)
+
+soup = BeautifulSoup(response.text, "html.parser")
+
+title = soup.title.text
+print("Page title:", title)
 ```
 
 TASK:
