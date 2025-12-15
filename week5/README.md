@@ -7,6 +7,8 @@
 
 ## Homework
 
-Will follow
+1. [numpy](homework/homework_numpy.md)
+1. [matplotlib](homework/homework_matplotlib.md)
+1. [pandas](homework/homework_pandas.md)
 
 
