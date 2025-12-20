@@ -60,7 +60,6 @@ Verify that the functions from mymath.py work correctly.
 
 Create a file called use_specific.py:
 ```
-# use_specific.py
 from mymath import add, multiply
 
 print("Add:", add(2, 3))

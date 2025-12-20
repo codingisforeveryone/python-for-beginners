@@ -87,7 +87,7 @@ from bank_account import BankAccount
 class StudentAccount(BankAccount):
 
     def __init__(self, owner, balance, minimum_balance):
-        super().__init__(self, owner, balance)
+        super().__init__(owner, balance)
         self.minimum_balance = minimum_balance
 
     def withdraw(self, amount):

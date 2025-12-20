@@ -47,7 +47,6 @@ my_library = Library()
 
 # Add some books
 my_library.add_book("1984", "George Orwell")
-my_library.add_book("To Kill a Mockingbird", "Harper Lee")
 my_library.add_book("The Hobbit", "J.R.R. Tolkien")
 
 my_library.show_books()
