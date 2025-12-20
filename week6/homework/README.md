@@ -2,6 +2,9 @@
 
 ## Homework
 
+1. [Homework on classes](1_homework_on_classes.md)
+
+
 Study the contents of (important for the exam):
 1. [Python modules](../1_hands_on_python_module.md)
 1. [Classes](../2_hands_on_classes.md)

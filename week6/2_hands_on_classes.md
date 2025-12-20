@@ -62,7 +62,7 @@ Observe how each account works independently.
 | `class`    | `BankAccount` A blueprint/design for creating bank account objects        |
 | Objects     | account_muhammad, account_aisha – specific accounts created from the `class` `BankAccount`  |
 | Attributes  | `owner`, `balance` – data stored in each object                  |
-| Methods     | `deposit()`, `withdraw()`, `info()` – changes attributes or shows info             |
+| Methods     | `deposit()`, `withdraw()`, `info()` – changes attributes or shows info. Methods are functions inside the class             |
 | `self`     | `self` is used when a attribute or method is accessed within the `class`  |
 | `__init__()` | the `__init__()` function is called constructor, it is called when an object is created (constructed)                     |
 
