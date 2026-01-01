@@ -5,13 +5,13 @@ import pandas as pd
 st.title("🕌 Prayer Times App")
 
 city = st.text_input("Enter City", "Makkah")
-country = st.text_input("Enter Country", "Saudi Arabia")
+#country = st.text_input("Enter Country", "Saudi Arabia")
 
 if st.button("Get Prayer Times"):
     url = "https://api.aladhan.com/v1/timingsByCity"
     params = {
         "city": city,
-        "country": country,
+#        "country": country,
         "method": 4  # Umm Al-Qura method
     }
 
