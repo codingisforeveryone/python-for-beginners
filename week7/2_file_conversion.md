@@ -1,12 +1,12 @@
 # Convert Word files to pdf and merge the files
 
-# 📦 Step 1: Install Required Libraries
+## 📦 Step 1: Install Required Libraries
 ```
 pip install docx2pdf 
 pip install PyPDF2
 ```
 
-# 🧑‍💻 Step 2: Program to Convert Text Files to PDF
+## 🧑‍💻 Step 2: Program to Convert Text Files to PDF
 
 Create a files convert_and_merge.py
 ```
