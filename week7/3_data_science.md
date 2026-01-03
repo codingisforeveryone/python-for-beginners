@@ -1,4 +1,4 @@
-# Data Science Example Project
+# Simple Data Science Example Project
 
 ## 📁 Dataset:
 
