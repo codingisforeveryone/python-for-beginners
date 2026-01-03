@@ -17,6 +17,18 @@ It is already in the folder, see:
 
 [haarcascade_frontalface_default.xml](haarcascade_frontalface_default.xml)
 
+### What is haarcascade_frontalface_default.xml?
+
+haarcascade_frontalface_default.xml is a pre-trained face detection model used with OpenCV to detect human faces in images or video.
+
+The XML contains:
+- Thousands of Haar features
+- Thresholds and weights
+- Stages of the cascade
+
+All learned during training on many face images
+
+![alt text](image.png)
 
 ## 🧑‍💻 Step 3: Python Code (Beginner-Friendly)
 ```
