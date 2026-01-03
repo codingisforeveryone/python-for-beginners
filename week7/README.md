@@ -7,6 +7,7 @@
 1. [Simple Data Science Program](3_data_science.md)
 1. [Face Detection with OpenCV](4_opencv.md)
 1. [Web App with Streamlit](5_streamlit.md)
+1. [Audio transcription with Whisper](6_whisper.md)
 
 
 
