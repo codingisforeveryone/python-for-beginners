@@ -8,9 +8,7 @@
 1. [Face Detection with OpenCV](4_opencv.md)
 1. [Web App with Streamlit](5_streamlit.md)
 1. [Audio transcription with Whisper](6_whisper.md)
-
-
-[-> Other nice libraries](7_other_nice_libraries.md)
+1. [Other nice libraries](7_other_nice_libraries.md)
 
 
 
