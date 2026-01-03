@@ -10,5 +10,8 @@
 1. [Audio transcription with Whisper](6_whisper.md)
 
 
+[-> Other nice libraries](7_other_nice_libraries.md)
+
+
 
 
