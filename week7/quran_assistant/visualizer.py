@@ -27,5 +27,3 @@ def visualize_ayah_and_translation(ayah, translation):
         f"<div class='arabic'>{translation}</div>",
         unsafe_allow_html=True
     )
-    # st.write(ayah)
-    # st.write(translation)
