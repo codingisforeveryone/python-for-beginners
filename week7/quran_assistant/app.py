@@ -8,7 +8,7 @@ st.title("📖 Quran Audio-Text Assistant")
 
 
 
-if st.button("Start Recording (for now: just start programm)"):
+if st.button("Start Programm (later when implemented, this would be to start the recording)"):
     
     audio_recorder = AudioRecorder("data")
     current_file = audio_recorder.get_current_file()
